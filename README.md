@@ -20,6 +20,8 @@ Ele substitui a combinação tradicional de **interruptores paralelos e
 intermediários** por **interruptores pulsadores** (botões de pressão)
 com contato **normalmente aberto**.
 
+<img src="img/ri-ABB-frente.jpg" style="width: 30%; ">
+
 O RI é um dispositivo **eletromecânico**, composto por: - **Bobina** -
 **Mecanismo de alavanca** - **Roda dentada e eixo tipo came** -
 **Contatos elétricos**
@@ -34,6 +36,9 @@ came (entre vale e crista), mudando o estado do contato elétrico
 
 O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 251-230**.
+
+<img src="img/ri-ABB-perfil.jpg" style="width: 30%; ">
+
 
 ### Características:
 
@@ -52,8 +57,7 @@ O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 | **A1**   | Alimentação da bobina (fase R)        |
 | **A2**   | Retorno da bobina (fase S ou neutro)  |
 
-  
-Em diagramas, o RI é representado por um retângulo com **"RI"**.
+ <img src="img/DR-127v.jpg" style="width: 30%; "> 
 
 ---
 
