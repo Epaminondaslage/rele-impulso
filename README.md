@@ -26,7 +26,7 @@ O RI é um dispositivo **eletromecânico**, composto por: - **Bobina** -
 **Mecanismo de alavanca** - **Roda dentada e eixo tipo came** -
 **Contatos elétricos**
 
- <img src="img/funcionamento.png" style="width: 10%; "> 
+ <img src="img/funcionamento.png" style="width: 30%; "> 
 
 A cada **pulso de tensão**, a roda dentada altera a posição do eixo tipo
 came (entre vale e crista), mudando o estado do contato elétrico
@@ -59,7 +59,7 @@ O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 | **A1**   | Alimentação da bobina (fase R)        |
 | **A2**   | Retorno da bobina (fase S ou neutro)  |
 
- <img src="img/diagrama-ligacao.png" style="width: 10%; "> 
+ <img src="img/diagrama-ligacao.png" style="width: 30%; "> 
 
 ---
 
@@ -68,9 +68,9 @@ O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 Representar: 
 
 - Eletrodutos
-- Pontos de luz\
-- Interruptores\
-- Tomadas\
+- Pontos de luz
+- Interruptores
+- Tomadas
 - Caixas de passagem
 
 ---
