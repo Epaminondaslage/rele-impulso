@@ -71,11 +71,15 @@ Incluir:
 
 # 3. Execução prática no Box Didático
 
-1.  Lançar os condutores\
-2.  Realizar as conexões\
-3.  Solicitar conferência ao professor\
-4.  Isolar emendas e energizar\
-5.  Desinstalar equipamentos mantendo condutores presos\
-6.  Retirar e organizar a fiação\
-7.  Guardar sonda\
+1.  Lançar os condutores
+2.  Realizar as conexões
+3.  Solicitar conferência ao professor
+4.  Isolar emendas e energizar
+5.  Desinstalar equipamentos mantendo condutores presos
+6.  Retirar e organizar a fiação
+7.  Guardar sonda
 8.  Limpar área de trabalho
+
+# 4. Referencia bibliográfica
+
+ALMEIDA, Welington Passos de. Guia de aula: Laboratório de Instalações Elétricas Prediais. Belo Horizonte: CEFET-MG, Curso de Eletrotécnica, 2025.
