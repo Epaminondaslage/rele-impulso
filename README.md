@@ -48,7 +48,9 @@ Em diagramas, o RI é representado por um retângulo com **"RI"**.
 
 ## 1. Desenho simbólico na planta baixa
 
-Representar: - Eletrodutos\
+Representar: 
+
+- Eletrodutos
 - Pontos de luz\
 - Interruptores\
 - Tomadas\
@@ -59,6 +61,7 @@ Representar: - Eletrodutos\
 ## 2. Diagrama unifilar do QDFL
 
 Incluir: 
+
 1. 01 DTMG bipolar
 2. 02 DPS 
 3. 01 IDR bipolar
