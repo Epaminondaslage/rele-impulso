@@ -1,6 +1,17 @@
-# Guia de Aula -- Relé de Impulso (RI)
 
-## 1. Conceito
+<td style="width: 10%;">
+    <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
+</td>
+
+
+## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+## **Departamento de Engenharia Elétrica - CEFET-MG**  
+## **Coordenação do Curso de Eletrotécnica**  
+
+## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+## Guia de Aula –  Relé de Impulso (RI)
+
+## 1. Introdução
 
 O **relé de impulso (RI)** foi patenteado por **Piero Giordanino**, em
 **1949**, com a finalidade de permitir o **comando de uma lâmpada ou
