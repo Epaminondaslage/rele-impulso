@@ -1,6 +1,17 @@
-# Guia de Aula -- Relé de Impulso (RI)
 
-## 1. Conceito
+<td style="width: 10%;">
+    <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
+</td>
+
+
+## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+## **Departamento de Engenharia Elétrica - CEFET-MG**  
+## **Coordenação do Curso de Eletrotécnica**  
+
+## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+## Guia de Aula –  Relé de Impulso (RI)
+
+## 1. Introdução
 
 O **relé de impulso (RI)** foi patenteado por **Piero Giordanino**, em
 **1949**, com a finalidade de permitir o **comando de uma lâmpada ou
@@ -8,6 +19,8 @@ conjunto de lâmpadas a partir de vários pontos distintos**.\
 Ele substitui a combinação tradicional de **interruptores paralelos e
 intermediários** por **interruptores pulsadores** (botões de pressão)
 com contato **normalmente aberto**.
+
+<img src="img/ri-ABB-frente.jpg" style="width: 30%; ">
 
 O RI é um dispositivo **eletromecânico**, composto por: - **Bobina** -
 **Mecanismo de alavanca** - **Roda dentada e eixo tipo came** -
@@ -23,6 +36,9 @@ came (entre vale e crista), mudando o estado do contato elétrico
 
 O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 251-230**.
+
+<img src="img/ri-ABB-perfil.jpg" style="width: 30%; ">
+
 
 ### Características:
 
@@ -41,8 +57,7 @@ O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 | **A1**   | Alimentação da bobina (fase R)        |
 | **A2**   | Retorno da bobina (fase S ou neutro)  |
 
-  
-Em diagramas, o RI é representado por um retângulo com **"RI"**.
+ <img src="img/DR-127v.jpg" style="width: 30%; "> 
 
 ---
 
@@ -71,11 +86,15 @@ Incluir:
 
 # 3. Execução prática no Box Didático
 
-1.  Lançar os condutores\
-2.  Realizar as conexões\
-3.  Solicitar conferência ao professor\
-4.  Isolar emendas e energizar\
-5.  Desinstalar equipamentos mantendo condutores presos\
-6.  Retirar e organizar a fiação\
-7.  Guardar sonda\
+1.  Lançar os condutores
+2.  Realizar as conexões
+3.  Solicitar conferência ao professor
+4.  Isolar emendas e energizar
+5.  Desinstalar equipamentos mantendo condutores presos
+6.  Retirar e organizar a fiação
+7.  Guardar sonda
 8.  Limpar área de trabalho
+
+# 4. Referencia bibliográfica
+
+ALMEIDA, Welington Passos de. Guia de aula: Laboratório de Instalações Elétricas Prediais. Belo Horizonte: CEFET-MG, Curso de Eletrotécnica, 2025.
