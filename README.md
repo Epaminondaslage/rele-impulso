@@ -1,15 +1,13 @@
-
 <td style="width: 10%;">
     <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
 </td>
 
+### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+### **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
 
-## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
-## **Departamento de Engenharia Elétrica - CEFET-MG**  
-## **Coordenação do Curso de Eletrotécnica**  
-
-## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-## Guia de Aula –  Relé de Impulso (RI)
+### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+### Guia de Aula –  Relé de Impulso (RI)
 
 ## 1. Introdução
 
@@ -63,7 +61,9 @@ O relé utilizado nesta atividade prática é o modelo **ABB -- Série E
 
 ---
 
-## 1. Desenho simbólico na planta baixa
+## 3. Parte Prática: 
+
+**3.1 Desenho simbólico na planta baixa**
 
 Representar: 
 
@@ -75,7 +75,7 @@ Representar:
 
 ---
 
-## 2. Diagrama unifilar do QDFL
+**3.2. Diagrama unifilar do QDFL**
 
 Incluir: 
 
@@ -86,7 +86,7 @@ Incluir:
 
 ---
 
-# 3. Execução prática no Box Didático
+**3.3. Execução prática no Box Didático**
 
 1.  Lançar os condutores
 2.  Realizar as conexões
@@ -99,4 +99,4 @@ Incluir:
 
 # 4. Referencia bibliográfica
 
-ALMEIDA, Welington Passos de. Guia de aula: Laboratório de Instalações Elétricas Prediais. Belo Horizonte: CEFET-MG, Curso de Eletrotécnica, 2025.
+ALMEIDA, Welington Passos de. Guia de aula: Laboratório de Instalações Elétricas Prediais. Belo Horizonte: CEFET-MG, Curso de Eletrotécnica, 2023.
